@@ -26,8 +26,8 @@
  "posts2":
  [
   {
-  "id": 1,
-  "title": "hello",
+  "Aid": 1,
+  "Atitle": "hello",
   }
   ]
 }
